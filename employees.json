@@ -1,0 +1,8 @@
+{
+    "list": [
+        { "id": "1", "firstname": "Dwight", "lastname": "Schrute", "salary": 45000, "dept": "Sales"},
+        { "id": "2", "firstname": "Michael", "lastname": "Scott", "salary": 65000, "dept": "Mgmt"},
+        { "id": "3", "firstname": "Pam", "lastname": "Beasly", "salary": 55000, "dept": "Sales"},
+        { "id": "4", "firstname": "Jim", "lastname": "Halpert", "salary": 50000, "dept": "Sales"}
+    ]
+}
